@@ -1,0 +1,12 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+slprj/
+*.fig
+*.mlx
+
+# OS generated files
+.DS_Store
+Thumbs.db
