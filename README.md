@@ -14,6 +14,8 @@ Unlike simple analog radios, this system digitizes audio into structured binary 
 
 \## System Architecture \& Key Features
 
+![System Block Diagram](images/block_diagram.png)
+
 \* \*\*Source Encoding (ADM):\*\* Uses Adaptive Delta Modulation to convert analog microphone input into a bandwidth-efficient 1-bit sequence, dynamically adjusting step sizes based on bit history.
 
 \* \*\*Modulation (CPFSK):\*\* Implements Continuous-Phase 2-FSK mapping bits to +/- 35 kHz deviations, integrating phase continuously to suppress spectral leakage.
