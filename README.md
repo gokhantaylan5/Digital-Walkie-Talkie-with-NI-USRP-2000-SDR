@@ -58,4 +58,3 @@ The frame duration is **50 ms** at a bit rate of **50 kbps**.
 4. Hold **Space** to enable Push-to-Talk (PTT) and speak into the microphone.
 5. Release **Space** to return to receive mode.
 
-> **Note:** The block diagram is referenced at `images/block_diagram.png`. Make sure the image exists at this relative path in your repository.
