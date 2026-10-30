@@ -201,6 +201,4 @@ run('DigitalWalkieTalkie.m')
 
 ## Academic Context
 
-Developed as a team project for **EHM3152 — Communication Laboratory**, **Department of Electronics and Communications Engineering, Yildiz Technical University**. The experimental figures and values in this README are drawn from the team's *Digital Wireless Walkie-Talkie Final Report* (29 May 2026).
-
-**Project team:** Gökhan Taylan, M. Salih Burulday, M. Talha Yazıcı, and Samet Demircioğlu.
+Developed as a team project for **EHM3152 — Communication Laboratory**, **Department of Electronics and Communications Engineering, Yildiz Technical University**.
